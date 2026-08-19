@@ -30,7 +30,7 @@ export default function HelpingSection() {
             <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18">
                 <div className="grid min-h-[850px] grid-cols-1 gap-10 lg:grid-cols-[48%_52%] items-center">
                     {/* ================= LEFT SIDE ================= */}
-                    <div className="relative min-h-[720px] hidden">
+                    <div className="relative min-h-[720px] sm-hidden">
                         {/* Top image */}
                         <div className="absolute left-0 top-0 z-20 h-[260px] w-[280px] overflow-hidden rounded-[24px] border-[7px] border-white shadow-sm">
                             <img
@@ -210,8 +210,8 @@ function Feature({
         <div className="flex items-start gap-5">
             <div
                 className={`flex h-[82px] w-[82px] shrink-0 items-center justify-center rounded-full ${orange
-                        ? "bg-[#fff0dc] text-[#082f59]"
-                        : "bg-[#e2e8f1] text-[#082f59]"
+                    ? "bg-[#fff0dc] text-[#082f59]"
+                    : "bg-[#e2e8f1] text-[#082f59]"
                     }`}
             >
                 {icon}
