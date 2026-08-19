@@ -1,0 +1,532 @@
+{
+  "navbar": {
+    "logo": {
+      "src": "/image/logo.png",
+      "alt": "Company Name"
+    },
+    "navLinks": [
+      {
+        "name": "Home",
+        "href": "/"
+      },
+      {
+        "name": "About Us",
+        "href": "/about"
+      },
+      {
+        "name": "Our Work",
+        "href": "/our-work"
+      },
+      {
+        "name": "Impact",
+        "href": "/impact"
+      },
+      {
+        "name": "Blog",
+        "href": "/blog"
+      }
+    ],
+    "pages": {
+      "name": "Pages",
+      "links": [
+        {
+          "name": "Gallery",
+          "href": "/gallery"
+        },
+        {
+          "name": "Team",
+          "href": "/team"
+        },
+        {
+          "name": "FAQ",
+          "href": "/faq"
+        }
+      ]
+    },
+    "contact": {
+      "name": "Contact Us",
+      "href": "/contact"
+    },
+    "phone": {
+      "label": "Need Help?",
+      "number": "+91 789 987 645",
+      "href": "tel:+91789987645"
+    },
+    "donate": {
+      "label": "Donate Now",
+      "href": "/donate"
+    }
+  },
+  "hero": {
+    "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueXKTPoMqWzfalGiVqvUqZhGb2_C8IyC5XJejZWSBKKNt02lvlsz9l2E&s=10",
+    "backgroundImageAlt": "Together we can create change",
+    "badge": {
+      "text": "Together, We Can",
+      "icon": "Sprout"
+    },
+    "title": {
+      "line1": "Empower change,",
+      "highlight": "one act of kindness",
+      "line2": "at a time.",
+      "heartSymbol": "♡"
+    },
+    "description": "Join us in creating brighter futures by providing hope, delivering help, and fostering lasting change for communities in need around the world.",
+    "primaryButton": {
+      "label": "Donate Now",
+      "href": "/donate",
+      "icon": "Heart"
+    },
+    "secondaryButton": {
+      "label": "Watch Our Story",
+      "href": "/our-story",
+      "icon": "Play"
+    },
+    "impactItems": [
+      {
+        "title": "Education & Skill",
+        "subtitle": "Development",
+        "description": "Empowering minds, building brighter futures.",
+        "icon": "GraduationCap",
+        "color": "green"
+      },
+      {
+        "title": "Women & Youth",
+        "subtitle": "Empowerment",
+        "description": "Strong women, strong communities.",
+        "icon": "Users",
+        "color": "orange"
+      },
+      {
+        "title": "Help Lorem",
+        "subtitle": "Families",
+        "description": "Your support brings hope and change.",
+        "icon": "HandHeart",
+        "color": "green"
+      },
+      {
+        "title": "Food & Shelter",
+        "subtitle": "Support",
+        "description": "Providing essentials, restoring dignity.",
+        "icon": "Soup",
+        "color": "orange"
+      }
+    ]
+  },
+  "helping": {
+    "topImage": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSvI5pBiDIbOGOCnNaPD7exSbJOwNGlEelCk0LnmUJJegjbSmZFU72GIKdJ&s=10",
+      "alt": "Children receiving support"
+    },
+    "donationBadge": {
+      "textLine1": "We give",
+      "textHighlight": "donations",
+      "textLine2": "to poor people",
+      "icon": "Heart"
+    },
+    "mainImage": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc1UlikgAVvWNg8JpbZTQF9irCHWCAhUyRhW_z2K9fZA&s=10",
+      "alt": "Children"
+    },
+    "bottomImage": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6oc5dFaUUz0Hz4D35zti11Sne-58ALIb9DNbfR7YxSA&s=10",
+      "alt": "Child smiling"
+    },
+    "eyebrow": {
+      "text": "Start Donating Poor People",
+      "icon": "HandHeart"
+    },
+    "title": {
+      "line1": "Helping Each Other Can Make",
+      "highlight": "World",
+      "line2": "Better"
+    },
+    "description": "Volunteering offers opportunities to develop new skills and gain valuable experience. This can include leadership, communication, project management, and teamwork skills.",
+    "features": [
+      {
+        "id": 1,
+        "icon": "UsersRound",
+        "title": "Start Helping Them",
+        "text": "Raising awareness about the charity’s mission and cause.",
+        "orange": true
+      },
+      {
+        "id": 2,
+        "icon": "HandHeart",
+        "title": "Make Donations",
+        "text": "Raising awareness about the charity’s mission and cause.",
+        "orange": false
+      }
+    ],
+    "bulletPoints": [
+      "Helped fund 3,265 project powerful corporate poor.",
+      "We give child a gift of a education.",
+      "We help companies develop powerful corporate social responsibility."
+    ],
+    "button": {
+      "label": "More About Us",
+      "href": "/about"
+    },
+    "phone": {
+      "label": "Phone",
+      "number": "+236 (456) 896 22",
+      "href": "tel:+23645689622"
+    }
+  },
+  "services": {
+    "tagline": "SERVICES",
+    "taglineIcon": "HeartHandshake",
+    "title": {
+      "prefix": "Our",
+      "highlight": "Comprehensive Services"
+    },
+    "description": "Our services are focused on creating lasting change through community development, healthcare access, educational support, and emergency relief.",
+    "readMoreLabel": "Read More",
+    "items": [
+      {
+        "id": 1,
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjBqJ1t9Y_ghxpmrzWxIpjTQ6EagM7FCIPFyEl9fQO3iGecUwGCPCsBb70&s=10",
+        "title": "Food Security Initiatives",
+        "description": "Addressing hunger and malnutrition by providing nutritious meals to those in need.",
+        "icon": "Utensils",
+        "iconBgColor": "bg-[#2d4d3a]",
+        "buttonTextColor": "text-[#2d4d3a]",
+        "href": "#"
+      },
+      {
+        "id": 2,
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQA1uekBcjNxOXR7hIddo6LgJQMiwNbJDXuvRO-6jgv6fOvjnM3lu6keF8&s=10",
+        "title": "Healthcare Access",
+        "description": "Addressing hunger and malnutrition by providing nutritious meals to those in need.",
+        "icon": "Heart",
+        "iconBgColor": "bg-[#ff5500]",
+        "buttonTextColor": "text-[#ff5500]",
+        "href": "#"
+      },
+      {
+        "id": 3,
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZwumopkn4tbs0jngpUh7Q3g6m9_WbYkafGkjs8JulVTku2FuA-bdTKcyg&s=10",
+        "title": "Educational Support",
+        "description": "Addressing hunger and malnutrition by providing nutritious meals to those in need.",
+        "icon": "GraduationCap",
+        "iconBgColor": "bg-[#2d4d3a]",
+        "buttonTextColor": "text-[#2d4d3a]",
+        "href": "#"
+      }
+    ]
+  },
+  "whyChooseUs": {
+    "subtitle": "WHY CHOOSE US",
+    "subtitleIcon": "HeartHandshake",
+    "title": {
+      "prefix": "Making a",
+      "highlight": "Real Difference"
+    },
+    "description": "We go beyond giving — we create lasting change for individuals and communities.",
+    "features": [
+      {
+        "id": 1,
+        "title": "Real Impact",
+        "description": "Your support creates measurable, lasting change in the lives of those in need.",
+        "icon": "Heart",
+        "iconBg": "bg-orange-50",
+        "borderAccent": "border-l-4 border-l-[#ff5500]",
+        "arrowBg": "bg-orange-50",
+        "arrowColor": "text-[#ff5500]"
+      },
+      {
+        "id": 2,
+        "title": "Transparent Work",
+        "description": "We keep everything clear and open, so you know how your support makes a difference.",
+        "icon": "Users",
+        "iconBg": "bg-emerald-50",
+        "borderAccent": "border-l-4 border-l-[#155e37]",
+        "arrowBg": "bg-emerald-50",
+        "arrowColor": "text-[#155e37]"
+      },
+      {
+        "id": 3,
+        "title": "Trusted by Communities",
+        "description": "Built on integrity and long-term partnerships for sustainable development.",
+        "icon": "GraduationCap",
+        "iconBg": "bg-orange-50",
+        "borderAccent": "border-l-4 border-l-[#ff5500]",
+        "arrowBg": "bg-orange-50",
+        "arrowColor": "text-[#ff5500]"
+      },
+      {
+        "id": 4,
+        "title": "Lasting Change",
+        "description": "We support education, healthcare and a better future for generations to come.",
+        "icon": "Sprout",
+        "iconBg": "bg-emerald-50",
+        "borderAccent": "border-l-4 border-l-[#155e37]",
+        "arrowBg": "bg-emerald-50",
+        "arrowColor": "text-[#155e37]"
+      }
+    ],
+    "image": {
+      "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmNZ-mWWK2BCdJg-Jbk3EvETt1-ihWtNJKE5yBqaPctulIFcXyT48tkP7i&s=10",
+      "alt": "People helping each other"
+    },
+    "overlay": {
+      "icon": "HeartHandshake",
+      "titlePrefix": "Together for a",
+      "titleHighlight": "Better Tomorrow",
+      "description": "Your support gives hope, strength and a brighter future."
+    }
+  },
+  "stats": {
+    "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYQVMPnoLpdwCNoMZgp_PfJCVZaHzd-Mgnegw6OH_HFuQSCYRNqRZpuU&s=10",
+    "items": [
+      {
+        "icon": "Users",
+        "value": "400 +",
+        "label": "Team Member"
+      },
+      {
+        "icon": "MessageSquareText",
+        "value": "80K +",
+        "label": "Client's Review"
+      },
+      {
+        "icon": "FileCheck",
+        "value": "100K +",
+        "label": "Completed Projects"
+      },
+      {
+        "icon": "Trophy",
+        "value": "40K +",
+        "label": "Winning Award"
+      }
+    ]
+  },
+  "testimonials": {
+    "subtitle": "Start Donating Poor People",
+    "subtitleIcon": "Heart",
+    "title": {
+      "prefix": "Our Valuable",
+      "highlight": "Customer",
+      "suffix": "Awesome Feedback"
+    },
+    "description": "Real stories. Real impact. See what our generous supporters have to say about their experience with us.",
+    "items": [
+      {
+        "id": 1,
+        "quote": "“Charity Is The Voluntary Act Of Giving Help, Typically In The Form Of Money, Time, Or Resources, To Those In Need. Charitable Organizations Aim To Solve Social, Environmental, And Economic Challenges By Addressing Issues Like Poverty”",
+        "name": "Ruby Klara",
+        "role": "Cloth Store Inc.",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCsvF6g3mCW4f3yk6h8fo0OVC1_1GkjOoZgnBuWGlnA&s=10",
+        "rating": 5,
+        "highlighted": true
+      },
+      {
+        "id": 2,
+        "quote": "“Charity Is The Voluntary Act Of Giving Help, Typically In The Form Of Money, Time, Or Resources, To Those In Need. Charitable Organizations Aim To Solve Social, Environmental, And Economic Challenges By Addressing Issues Like Poverty”",
+        "name": "Bishu Kiev",
+        "role": "Cloth Store Inc.",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCsvF6g3mCW4f3yk6h8fo0OVC1_1GkjOoZgnBuWGlnA&s=10",
+        "rating": 5,
+        "highlighted": false
+      },
+      {
+        "id": 3,
+        "quote": "“Charity Is The Voluntary Act Of Giving Help, Typically In The Form Of Money, Time, Or Resources, To Those In Need. Charitable Organizations Aim To Solve Social, Environmental, And Economic Challenges By Addressing Issues Like Poverty”",
+        "name": "Michel Smith",
+        "role": "Cloth Store Inc.",
+        "avatar": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThCsvF6g3mCW4f3yk6h8fo0OVC1_1GkjOoZgnBuWGlnA&s=10",
+        "rating": 5,
+        "highlighted": false
+      }
+    ]
+  },
+  "cta": {
+    "volunteer": {
+      "icon": "HeartHandshake",
+      "subtitle": "We Give Child A Gift Of A Education",
+      "title": "Become A Volunteer?",
+      "button": {
+        "label": "Contact Now",
+        "href": "/contact"
+      },
+      "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV-c_gpIkym9tikpR4SMbzDNsinjmiLnRFKRmfmXc-P9OfmYjzVC8-DI&s=10"
+    },
+    "video": {
+      "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV-c_gpIkym9tikpR4SMbzDNsinjmiLnRFKRmfmXc-P9OfmYjzVC8-DI&s=10",
+      "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ?autoplay=1"
+    },
+    "donation": {
+      "icon": "HeartHandshake",
+      "subtitle": "We Give Child A Gift Of A Education",
+      "title": "Make Donation To Us?",
+      "button": {
+        "label": "Donate Now",
+        "href": "/donate"
+      },
+      "backgroundImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREV-c_gpIkym9tikpR4SMbzDNsinjmiLnRFKRmfmXc-P9OfmYjzVC8-DI&s=10"
+    }
+  },
+  "blog": {
+    "subtitle": "OUR BLOG",
+    "subtitleIcon": "SquarePen",
+    "title": {
+      "prefix": "Latest from",
+      "highlight": "Our Blog"
+    },
+    "description": "Stay updated with inspiring stories, helpful insights, and the latest news about our work and the communities we serve.",
+    "readMoreLabel": "Read More",
+    "viewAll": {
+      "label": "View All Blogs",
+      "href": "/blog"
+    },
+    "posts": [
+      {
+        "id": 1,
+        "category": "Education",
+        "categoryBg": "bg-[#ff5500]",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi120NvEhwgWMeSu_PBHvG7PemIVCITGkceAVHDzA2-Q&s",
+        "date": "May 20, 2024",
+        "title": "How Education Can Transform Communities and Break Poverty",
+        "description": "Education is the key to breaking the cycle of poverty. Learn how our programs are creating brighter futures for children.",
+        "href": "/blog/education"
+      },
+      {
+        "id": 2,
+        "category": "Healthcare",
+        "categoryBg": "bg-[#0d6e3f]",
+        "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qn8AiEfd9XrZDrsGYQWlT7lDUoblWhdi3PAhur0YI_WZwvW1yWuRZfk&s=10",
+        "date": "May 15, 2024",
+        "title": "Improving Healthcare Access in Underserved Areas",
+        "description": "Discover how we are bringing essential healthcare services to remote communities and improving lives every day.",
+        "href": "/blog/healthcare"
+      },
+      {
+        "id": 3,
+        "category": "Community",
+        "categoryBg": "bg-[#0055d4]",
+        "imageSrc": "https://cdn.pixabay.com/photo/2016/03/18/15/21/help-1265227_1280.jpg",
+        "date": "May 10, 2024",
+        "title": "Community Power: Small Actions Creating Big Impact",
+        "description": "See how small actions and local involvement are driving sustainable change and building stronger communities.",
+        "href": "/blog/community"
+      }
+    ]
+  },
+  "footer": {
+    "backgroundImage": "https://www.shutterstock.com/image-photo/group-multigenerational-people-hugging-each-260nw-2487688067.jpg",
+    "newsletter": {
+      "titleLine1": "Subscribe To",
+      "titleLine2": "Our Newsletter",
+      "placeholder": "Enter Your Email",
+      "button": "Subscribe"
+    },
+    "hotline": {
+      "label": "Hotline Order",
+      "number": "+1 834 123 456 789",
+      "href": "tel:+1834123456789"
+    },
+    "emailContact": {
+      "label": "Email Us",
+      "email": "support@example.com",
+      "href": "mailto:support@example.com"
+    },
+    "company": {
+      "name": "COMPANY NAME",
+      "tagline": "Dummy text line",
+      "description": "Our Secure Online Donation Platform Allows You To Make Contributions Quickly And Safely. Choose From Various."
+    },
+    "socialLinks": [
+      {
+        "name": "Facebook",
+        "href": "#",
+        "icon": "FaFacebook"
+      },
+      {
+        "name": "Twitter",
+        "href": "#",
+        "icon": "BsTwitter"
+      },
+      {
+        "name": "LinkedIn",
+        "href": "#",
+        "icon": "LiaLinkedin"
+      }
+    ],
+    "quickLinks": {
+      "title": "Quick Links",
+      "items": [
+        {
+          "name": "About Us",
+          "href": "/about"
+        },
+        {
+          "name": "Our News",
+          "href": "/news"
+        },
+        {
+          "name": "Our Campaign",
+          "href": "/campaign"
+        },
+        {
+          "name": "FAQ",
+          "href": "/faq"
+        },
+        {
+          "name": "Get A Quote",
+          "href": "/contact"
+        }
+      ]
+    },
+    "services": {
+      "title": "Our Services",
+      "items": [
+        {
+          "name": "Our Causes",
+          "href": "/causes"
+        },
+        {
+          "name": "Education Support",
+          "href": "/education-support"
+        },
+        {
+          "name": "Our Campaign",
+          "href": "/campaign"
+        },
+        {
+          "name": "Food Support",
+          "href": "/food-support"
+        },
+        {
+          "name": "Health Support",
+          "href": "/health-support"
+        }
+      ]
+    },
+    "contact": {
+      "title": "Get In Touch",
+      "address": "455 West Orchard Street, Kings Mountain, NC 280867",
+      "phone": "+088 (246) 642-27-10",
+      "phoneHref": "tel:+0882466422710",
+      "email": "example@email.com",
+      "emailHref": "mailto:example@email.com"
+    },
+    "copyright": {
+      "year": 2026,
+      "companyName": "Company Name",
+      "rights": "All Rights Reserved."
+    },
+    "legalLinks": [
+      {
+        "name": "Terms & Conditions",
+        "href": "/terms"
+      },
+      {
+        "name": "Privacy Policy",
+        "href": "/privacy"
+      },
+      {
+        "name": "Cookie Settings",
+        "href": "/cookies"
+      }
+    ]
+  }
+}
