@@ -24,8 +24,8 @@ export default function ServicesSection() {
     const TaglineIcon = iconMap[services.taglineIcon] || HeartHandshake;
 
     return (
-        <section className="bg-[#FAF7F2] py-14 sm:py-16 lg:py-24 px-4 sm:px-6 lg:px-8">
-            <div className="max-w-7xl mx-auto text-center">
+        <section className="bg-[#FAF7F2] py-14 sm:py-16 lg:py-24">
+            <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18 text-center">
                 {/* Section Header */}
                 <div className="flex items-center justify-center gap-2 sm:gap-3 mb-4">
                     <span className="w-6 sm:w-10 h-[1px] bg-[#2d4d3a]" />

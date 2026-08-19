@@ -20,7 +20,7 @@ export default function StatsSection() {
     const { stats } = homeData as { stats: StatsData };
 
     return (
-        <section className="relative bg-[#0d1f18] text-white py-16 sm:py-20 lg:py-24 px-4 sm:px-8 overflow-hidden">
+        <section className="relative bg-[#0d1f18] text-white py-16 sm:py-20 lg:py-24 overflow-hidden">
             {/* Background Image */}
             <div
                 className="absolute inset-0 bg-cover bg-center bg-no-repeat grayscale opacity-50 mix-blend-overlay pointer-events-none"
@@ -33,7 +33,7 @@ export default function StatsSection() {
             <div className="absolute inset-0 bg-[#0d1f18]/30 pointer-events-none" />
 
             {/* Content */}
-            <div className="relative max-w-7xl mx-auto">
+            <div className="relative mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18">
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-y-12 sm:gap-y-14 lg:gap-y-0 lg:gap-0 items-center">
                     {stats.items.map((stat, index) => {
                         const Icon = iconMap[stat.icon] || Users;

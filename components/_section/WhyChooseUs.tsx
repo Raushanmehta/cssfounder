@@ -41,8 +41,8 @@ export default function WhyChooseUs() {
     const OverlayIcon = iconMap[whyChooseUs.overlay.icon] || HeartHandshake;
 
     return (
-        <section className="bg-[#FFFDF9] py-16 sm:py-6 lg:py-10 px-4 sm:px-6 lg:px-8 font-sans">
-            <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
+        <section className="bg-[#FFFDF9] py-16 sm:py-20 lg:py-24 font-sans">
+            <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18 grid grid-cols-1 lg:grid-cols-12 gap-12 lg:gap-16 items-center">
                 {/* LEFT COLUMN */}
                 <div className="lg:col-span-7 space-y-7">
                     {/* Subtitle */}

@@ -13,8 +13,8 @@ export default function BlogSection() {
     const SubtitleIcon = iconMap[blog.subtitleIcon] || SquarePen;
 
     return (
-        <section className="bg-[#FAF7F2] py-16 sm:py-20 lg:py-12 px-4 sm:px-6 lg:px-8 font-sans">
-            <div className="max-w-7xl mx-auto text-center">
+        <section className="bg-[#FAF7F2] py-16 sm:py-20 lg:py-24 font-sans">
+            <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18 text-center">
                 {/* Subtitle */}
                 <div className="flex items-center justify-center gap-2 mb-3">
                     <SubtitleIcon className="w-5 h-5 sm:w-6 sm:h-6 text-[#ff5500]" />

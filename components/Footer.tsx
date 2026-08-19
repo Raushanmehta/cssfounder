@@ -37,7 +37,7 @@ export default function Footer() {
             />
 
             {/* Main Content */}
-            <div className="relative mx-auto max-w-7xl px-4 sm:px-4 lg:px-4 pt-12 sm:pt-14 lg:pt-16 pb-7">
+            <div className="relative mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18 pt-12 sm:pt-14 lg:pt-16 pb-7">
                 {/* Newsletter + Contact */}
                 <div className="grid grid-cols-1 lg:grid-cols-12 gap-8 lg:gap-10 items-center pb-10 sm:pb-12 border-b border-gray-800">
                     {/* Newsletter */}

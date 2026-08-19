@@ -54,7 +54,7 @@ export default function HeroSection() {
             <div className="absolute inset-x-0 bottom-0 -z-10 h-72 bg-gradient-to-t from-black/90 to-transparent" />
 
             {/* Hero Content */}
-            <div className="mx-auto flex min-h-[720px] w-full max-w-[1450px] items-center px-4 pb-10 pt-28 sm:min-h-[760px] sm:px-6 sm:pt-32 lg:min-h-[780px] lg:px-10 lg:pb-48 lg:pt-32">
+            <div className="mx-auto flex min-h-[720px] w-full max-w-[1650px] items-center px-4 pb-10 pt-28 sm:min-h-[760px] sm:px-6 sm:pt-32 lg:min-h-[780px] lg:px-8 xl:px-18 lg:pb-48 lg:pt-32">
                 <div className="w-full max-w-[650px]">
                     {/* Badge */}
                     <div className="mb-5 inline-flex items-center gap-2 rounded-full border border-orange-500 px-4 py-2 text-xs font-bold uppercase tracking-wide text-orange-500 sm:mb-6 sm:px-5 sm:text-sm">
@@ -126,7 +126,7 @@ export default function HeroSection() {
             </div>
 
             {/* Impact Cards */}
-            <div className="relative z-20 mx-auto w-full max-w-[1370px] px-4 pb-5 sm:px-6 lg:absolute lg:bottom-6 lg:left-1/2 lg:w-[calc(100%-32px)] lg:-translate-x-1/2 lg:px-0">
+            <div className="relative z-20 mx-auto w-full max-w-[1650px] px-4 pb-5 sm:px-6 lg:absolute lg:bottom-6 lg:left-1/2 lg:w-full lg:-translate-x-1/2 lg:px-8 xl:px-18">
                 <div className="grid overflow-hidden rounded-2xl border border-white/25 bg-black/60 backdrop-blur-md sm:grid-cols-2 lg:grid-cols-4">
                     {hero.impactItems.map((item, index) => {
                         const Icon = iconMap[item.icon] || GraduationCap;

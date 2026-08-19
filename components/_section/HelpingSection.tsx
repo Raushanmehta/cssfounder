@@ -26,9 +26,9 @@ export default function HelpingSection() {
     const BadgeIcon = iconMap[helping.donationBadge.icon] || Heart;
 
     return (
-        <main className="min-h-screen bg-[#faf9f6] text-[#092d55]">
-            <section className="mx-auto max-w-[1500px] px-5 py-6 lg:px-10">
-                <div className="grid min-h-[850px] grid-cols-1 gap-10 lg:grid-cols-[48%_52%]">
+        <section className="min-h-screen bg-[#faf9f6] text-[#092d55] py-8 sm:py-12 lg:py-16">
+            <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18">
+                <div className="grid min-h-[850px] grid-cols-1 gap-10 lg:grid-cols-[48%_52%] items-center">
                     {/* ================= LEFT SIDE ================= */}
                     <div className="relative min-h-[720px]">
                         {/* Top image */}
@@ -188,8 +188,8 @@ export default function HelpingSection() {
                         </div>
                     </div>
                 </div>
-            </section>
-        </main>
+            </div>
+        </section>
     );
 }
 

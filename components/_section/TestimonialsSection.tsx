@@ -16,8 +16,8 @@ export default function TestimonialsSection() {
     const SubtitleIcon = iconMap[testimonials.subtitleIcon] || Heart;
 
     return (
-        <section className="bg-[#FAFDFB] py-16 sm:py-20 lg:py-24 px-4 sm:px-6 lg:px-8 overflow-hidden">
-            <div className="max-w-7xl mx-auto text-center">
+        <section className="bg-[#FAFDFB] py-16 sm:py-20 lg:py-24 overflow-hidden">
+            <div className="mx-auto w-full max-w-[1650px] px-4 sm:px-6 lg:px-8 xl:px-18 text-center">
                 {/* Subtitle */}
                 <div className="flex items-center justify-center gap-2 mb-3">
                     <SubtitleIcon className="w-5 h-5 sm:w-6 sm:h-6 text-[#2d5d3b]" />
